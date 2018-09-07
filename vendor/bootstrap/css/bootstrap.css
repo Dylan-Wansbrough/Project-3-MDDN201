@@ -9243,3 +9243,10 @@ footer{
   background-color: #d82c20;
   border: none;
 }
+
+/*-------------------[articles]-------------------*/
+
+#article{
+  margin-left: 22.5%;
+  width: 60%;
+}
