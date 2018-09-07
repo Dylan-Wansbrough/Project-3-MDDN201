@@ -9250,3 +9250,27 @@ footer{
   margin-left: 22.5%;
   width: 60%;
 }
+
+#article p{
+  font-size: 1.1em;
+  color: #333;
+  font-family: 'Karla', sans-serif;
+}
+
+#articleBold p{
+  font-size: 1.2em;
+  color: #333;
+  font-family: 'Karla', sans-serif;
+}
+
+#articleHeaders h1{
+  font-size: 2.75em;
+  color: #333;
+  font-family: 'Karla', sans-serif;
+}
+
+#smallArticle h2{
+  font-size: 1.1em;
+  color: #777;
+  font-family: 'Karla', sans-serif;
+}
