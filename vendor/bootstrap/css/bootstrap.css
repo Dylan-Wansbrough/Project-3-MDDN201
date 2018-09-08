@@ -9247,12 +9247,12 @@ footer{
 /*-------------------[articles]-------------------*/
 
 #article{
-  margin-left: 22.5%;
-  width: 60%;
+  margin-left: 17.5%;
+  width: 65%;
 }
 
 #article p{
-  font-size: 1.1em;
+  font-size: 1.15em;
   color: #333;
   font-family: 'Karla', sans-serif;
 }
