@@ -9040,12 +9040,15 @@ footer{
 }
 
 .container2 {
+  width: 125%;
+
   margin-top: -22px;
-  margin-left: -36%;
+  float: left;
 }
 
 .container3 {
-  margin-right: -36%;
+  float: right;
+  width: 100%;
 }
 
 .container3 button{
