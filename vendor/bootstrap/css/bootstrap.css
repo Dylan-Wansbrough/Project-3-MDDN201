@@ -9319,6 +9319,11 @@ nav{
   border: none;
 }
 
+#redBox{
+  width: 20%;
+  background-color: #d82c20;
+}
+
 /*-------------------[articles]-------------------*/
 
 #article{
